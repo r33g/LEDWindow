@@ -1,6 +1,8 @@
 # LEDWindow
 Arduino controlled 11x36 pixel matrix
 
+![](https://github.com/r33gan/LEDWindow/raw/master/ledWindow.jpg)
+
 **Halloween/Christmas** folders are Arduino projects
 
 https://www.arduino.cc/en/Main/Software
